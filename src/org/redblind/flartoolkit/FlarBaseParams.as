@@ -1,0 +1,1 @@
+package org.redblind.flartoolkit {	/**	 * @author jcipriano	 */	public class FlarBaseParams 	{		public var width:Number = 640;		public var height:Number = 480;		public var codeWidth:int = 80;		public var fps:int = 30;	}}
