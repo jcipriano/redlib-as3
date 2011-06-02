@@ -1,4 +1,4 @@
-package com.mccann.floss.display
+package org.redblind.display 
 {
 	import flash.display.Bitmap;
 	import flash.display.BitmapData;
